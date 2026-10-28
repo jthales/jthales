@@ -16,7 +16,6 @@
 
 ```javascript
 const thales = {
-  pronomes: "he" | "him",
   código: [Javascript, Typescript, Python, Java],
   ferramentas: [Angular, React, NextJS, Node, Karma & Jasmine, Jest, Docker ...],
   arquitetura: ["microserviços", "event-driven", "design system pattern"],
